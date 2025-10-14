@@ -1,2 +1,3 @@
 Hello from branch add-feature1
 Fixed critical bug
+new info!
